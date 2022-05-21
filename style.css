@@ -1,0 +1,81 @@
+body{
+	background-color:grey;
+}
+
+p{
+  color: rgb(32,32,32);
+  text-align: left;
+  text-justify="auto";
+ }
+img{
+  Float:center;
+  width: Auto;
+  height: auto;
+ }
+.Ada1 {
+  float:"left"; 
+  width: auto; 
+  height: 400px;
+ }
+.Ada2 {
+  float="left"; 
+  width: auto; 
+  height: 500px;
+ }
+.Ada3 {
+  float="left";
+  width: auto; 
+  height: 500px;
+ }
+.Ada4 {
+  float:"Left";
+  width: auto;
+  height:600px;
+ }
+.Nunes1 {
+  float:"left"; 
+  width: auto; 
+  height: 500px;
+ }
+.Nunes {
+  float:"left";
+  width: auto;
+  height: 500px;
+ }
+table,td {
+	border: 1px solid black;
+ }
+.Nunes4 {
+  float:"left";
+  width:auto;
+  height: 500px;
+ }
+.Ali1 {
+  float="left"; 
+  width=auto; 
+  height=auto;
+ }
+.Video1 {
+   width="640";
+   height="480";
+ }
+.Arnold1 {
+  float:"left";
+  width:auto;
+  height: auto;
+ }
+.Arnold2 {
+  float:"left";
+  width:auto;
+  height: 500px;
+ }
+.Arnold3 {
+  float:"left";
+  width:auto;
+  height: 500px;
+ }
+.Arnold6 {
+  float:"ledt";
+  width:auto;
+  height: 500px;
+ }
